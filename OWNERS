@@ -1,3 +1,3 @@
-# Default code reviewers picked from top 3 or more developers.
-# Please update this list if you find better candidates.
-include platform/tools/tradefederation:/OWNERS
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd2d93db1498cc89d26c8e74cc9b657b77d4f7ff290fd51a84a96c113e58ae26
+size 167
